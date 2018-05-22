@@ -1,4 +1,3 @@
-import Promise from 'bluebird'
 import _ from 'lodash'
 import Papa from 'papaparse'
 import { env } from './modules/config'
